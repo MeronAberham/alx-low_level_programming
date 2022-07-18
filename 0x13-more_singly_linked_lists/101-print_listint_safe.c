@@ -1,4 +1,4 @@
-#include "lists.h"
+#include "listint_t"
 
 /**
  * print_listint_safe - prints all the elements of a linked list
